@@ -23,7 +23,8 @@ local function InsertIfNew(t, val)
 	table.insert(t, val)
 end
 
-function buildMode:Init(dbFileName, buildName, buildXML, convertBuild)
+--Attempting to import without overriding value if overrideWithNew is False
+function buildMode:InitOrImport(dbFileName, buildName, buildXML, overrideWithNew, convertBuild)
 	self.dbFileName = dbFileName
 	self.buildName = buildName
 	if dbFileName then
@@ -735,6 +736,10 @@ function buildMode:Init(dbFileName, buildName, buildXML, convertBuild)
 	--]]
 
 	self.abortSave = false
+end
+
+function buildMode:InitOrImport(dbFileName, buildName, buildXML, convertBuild)
+	self.InitOrImport(dbFileName, buildName, buildXML, true, convertBuild)
 end
 
 local acts = { 
