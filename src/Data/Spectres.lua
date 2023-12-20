@@ -3908,3 +3908,35 @@ minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/Mannequin/MannequinHigh_"
     modList = {
     },
 }
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/ReaperHigh"] = {
+    name = "Perfect Dark Reaper",
+    life = 1.88,
+    fireResist = 0,
+    coldResist = 0,
+    lightningResist = 0,
+    chaosResist = 0,
+    damage = 1.73,
+    damageSpread = 0.2,
+    attackTime = 1.455,
+    attackRange = 18,
+    accuracy = 1,
+    weaponType1 = "One Hand Sword",
+    weaponType2 = "One Hand Sword",
+    skillList = {
+        "AzmeriReaperMelee",
+        "GAAzmeriReaperLacerate",
+        "GAAzmeriReaperComboLeftSlash",
+        "GAAzmeriReaperComboRightSlash",
+        "GAAzmeriReaperDash",
+        "GAAzmeriReaperDashImpactSlash",
+        "GAAzmeriReaperCycloneImpact",
+        "GAAzmeriReaperComboWhirl",
+        "EAAAzmeriReaperCyclone",
+        "EAAAzmeriReaperDualStrike",
+        "EAAAzmeriReaperComboAttack",
+        "DTTAzmeriReaper",
+    },
+    modList = {
+    },
+}
