@@ -1,5 +1,51 @@
 # Changelog
 
+## [v2.38.4](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.38.4) (2023/12/20)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.38.3...v2.38.4)
+
+<!-- Release notes generated using configuration in .github/release.yml at dev -->
+
+## What's Changed
+
+### Fixed Crashes
+- Fix occasional crash when loading build on Beta branch [\#7120](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7120) ([Nostrademous](https://github.com/Nostrademous))
+
+
+
+## [v2.38.3](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.38.3) (2023/12/19)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.38.2...v2.38.3)
+
+<!-- Release notes generated using configuration in .github/release.yml at dev -->
+
+## What's Changed
+
+### Fixed Crashes
+- Fix crash when checking the breakdown for Transfigured Eye of Winter and Infernal Blow [\#7116](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7116) ([LocalIdentity](https://github.com/LocalIdentity))
+
+### Fixed Bugs
+- Fix Oath of the Magi not working for Body Armour slot [\#7109](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7109) ([sida-wang](https://github.com/sida-wang))
+- Fix Lancing Steel less damage multiplier only applying to Hits [\#7114](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7114) ([deathbeam](https://github.com/deathbeam))
+
+### Other change
+- Update The Adorned to work in Cluster Jewel sockets [\#7113](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7113) ([LocalIdentity](https://github.com/LocalIdentity))
+
+
+
+## [v2.38.2](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.38.2) (2023/12/19)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.38.1...v2.38.2)
+
+<!-- Release notes generated using configuration in .github/release.yml at dev -->
+
+## What's Changed
+
+### Fixed Bugs
+- Fix Bodyswap of Sacrifice explosion not scaling correctly [\#7104](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7104) ([LocalIdentity](https://github.com/LocalIdentity))
+
+
+
 ## [v2.38.1](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.38.1) (2023/12/18)
 
 [Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.38.0...v2.38.1)
@@ -18,7 +64,7 @@
 
 ### Fixed Bugs
 - Fix Flicker Strike DPS being limited by cooldown [\#7078](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7078) ([sida-wang](https://github.com/sida-wang))
-- Fix Replica Dragonsfang's Flight not affecting Transfigured gems [\#7101](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7101) ([Paliak](https://github.com/Paliak))
+- Fix Replica Dragonfang's Flight not affecting Transfigured gems [\#7101](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7101) ([Paliak](https://github.com/Paliak))
 - Fix Lacerate of Haemorrhage "more damage with Bleeding" using increased [\#7072](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7072) ([sida-wang](https://github.com/sida-wang))
 - Fix The Adorned not applying to jewels in outer tree sockets [\#7086](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7086) ([LocalIdentity](https://github.com/LocalIdentity))
 - Fix The Adorned applying to abyss jewels in gear [\#7086](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/7086) ([LocalIdentity](https://github.com/LocalIdentity))

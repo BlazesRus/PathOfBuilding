@@ -1,3 +1,27 @@
+VERSION[2.38.4][2023/12/20]
+
+--- Fixed Crashes ---
+* Fix occasional crash when loading build on Beta branch (Nostrademous)
+
+VERSION[2.38.3][2023/12/19]
+
+--- Fixed Crashes ---
+* Fix crash when checking the breakdown for Transfigured Eye of Winter and Infernal Blow (LocalIdentity)
+
+--- Fixed Bugs ---
+* Fix Oath of the Magi not working for Body Armour slot (sida-wang)
+* Fix Lancing Steel less damage multiplier only applying to Hits (deathbeam)
+
+--- Other Changes ---
+* Update The Adorned to work in Cluster Jewel sockets (LocalIdentity)
+
+
+VERSION[2.38.2][2023/12/19]
+
+--- Fixed Bugs ---
+* Fix Bodyswap of Sacrifice explosion not scaling correctly (LocalIdentity)
+
+
 VERSION[2.38.1][2023/12/18]
 
 --- User Interface ---
@@ -10,7 +34,7 @@ VERSION[2.38.1][2023/12/18]
 
 --- Fixed Bugs ---
 * Fix Flicker Strike DPS being limited by cooldown (sida-wang)
-* Fix Replica Dragonsfang's Flight not affecting Transfigured gems (Paliak)
+* Fix Replica Dragonfang's Flight not affecting Transfigured gems (Paliak)
 * Fix Lacerate of Haemorrhage "more damage with Bleeding" using increased (sida-wang)
 * Fix The Adorned not applying to jewels in outer tree sockets (LocalIdentity)
 * Fix The Adorned applying to abyss jewels in gear (LocalIdentity)
