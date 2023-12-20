@@ -3597,3 +3597,314 @@ minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/KudukuHigh"] = {
     modList = {
     },
 }
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/Firefury/FirefuryHigh_"] = {
+    name = "Perfect Fiery Cannibal",
+    life = 2,
+    fireResist = 75,
+    coldResist = 0,
+    lightningResist = 0,
+    chaosResist = 0,
+    damage = 1.25,
+    damageSpread = 0.2,
+    attackTime = 1.5,
+    attackRange = 13,
+    accuracy = 1,
+    weaponType1 = "Staff",
+    skillList = {
+        "MeleeAtAnimationSpeedFire",
+        "FemaleCannibalBossFireStorm",
+        "AzmeriFirefuryFireResistAura",
+        "AzmeriFireFuryMoltenStrike",
+        "FemaleCannibalBossFlameDash",
+        "AzmeriFirefuryCremation",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/HarvestBirdHigh"] = {
+    name = "Perfect Primal Thunderbird",
+    life = 1.88,
+    energyShield = 0.6,
+    fireResist = 0,
+    coldResist = 0,
+    lightningResist = 75,
+    chaosResist = 0,
+    damage = 1.5,
+    damageSpread = 0.2,
+    attackTime = 1.995,
+    attackRange = 14,
+    accuracy = 1,
+    weaponType1 = "Dagger",
+    skillList = {
+        "MeleeAtAnimationSpeedLightning",
+        "AzmeriBirdGrace",
+        "AzmeriBirdGraceHardMode",
+        "GSAzmeriBirdDashZap",
+        "AzmeriBirdBeam",
+        "AzmeriBirdDashGT1",
+        "AzmeriBirdDashGT2",
+        "AzmeriBirdScreechExposure",
+        "AzmeriRavenScreechOfSplendour",
+        "AzmeriRavenDashOfDestruction",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/CycloneDemonHigh"] = {
+    name = "Perfect Sawblade Horror",
+    life = 3.75,
+    fireResist = 0,
+    coldResist = 52,
+    lightningResist = 52,
+    chaosResist = 0,
+    damage = 1.73,
+    damageSpread = 0.2,
+    attackTime = 1.5,
+    attackRange = 13,
+    accuracy = 1,
+    weaponType1 = "Two Hand Axe",
+    skillList = {
+        "MeleeAtAnimationSpeed",
+        "AzmeriCycloneDemonDesecratedGroundCyclone",
+        "AzmeriCycloneDemonCleave",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/GeofriHigh"] = {
+    name = "Perfect Blasphemer",
+    life = 2.25,
+    fireResist = 0,
+    coldResist = 0,
+    lightningResist = 0,
+    chaosResist = 0,
+    damage = 2.25,
+    damageSpread = 0,
+    attackTime = 1.5,
+    attackRange = 12,
+    accuracy = 1,
+    skillList = {
+        "MeleeAtAnimationSpeed",
+        "AzmeriWanderingEnfeebleGeofriHexproof",
+        "AzmeriWanderingVulnerabilityGeofriHexproof",
+        "AzmeriWanderingTemporalChainsGeofriHexproof",
+        "AzmeriGeofriSlam",
+        "AzmeriGeofriSmite",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/DemonBossHigh"] = {
+    name = "Perfect Blood Demon",
+    life = 4.2,
+    fireResist = 20,
+    coldResist = 20,
+    lightningResist = 20,
+    chaosResist = 0,
+    damage = 1.5,
+    damageSpread = 0.2,
+    attackTime = 1.5,
+    attackRange = 24,
+    accuracy = 1,
+    weaponType1 = "Two Hand Axe",
+    skillList = {
+        "MeleeAtAnimationSpeedFire",
+        "GAAzmeriDemonLeapSlamDamage",
+        "AzmeriDemonTeethShot",
+        "MMSAzmeriDemonBloodVomitSmall",
+        "MMSAzmeriDemonBloodVomitMedium",
+        "MMSAzmeriDemonBloodVomitLarge",
+        "GAAzmeriDemonMeleeMiniSlam1",
+        "GAAzmeriDemonMeleeMiniSlam2",
+        "GSAzmeriDemonKnockback",
+        "GSAzmeriDemonBossCorruptExplode",
+        "AzmeriDemonVomitSpraySmall",
+        "AzmeriDemonVomitSprayMedium",
+        "AzmeriDemonVomitSprayLarge",
+        "GTAzmeriDemonTeethShot",
+        "DTTAzmeriDemonLeap",
+        "AzmeriDemonPhysicalDamageAura",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/BasaliskHigh"] = {
+    name = "Perfect Serpent Warrior",
+    life = 1.5,
+    energyShield = 1,
+    fireResist = 0,
+    coldResist = 0,
+    lightningResist = 0,
+    chaosResist = 75,
+    damage = 1.35,
+    damageSpread = 0.2,
+    attackTime = 1.995,
+    attackRange = 20,
+    accuracy = 1,
+    weaponType1 = "One Hand Sword",
+    weaponType2 = "Dagger",
+    skillList = {
+        "MeleeAtAnimationSpeedChaos",
+        "AzmeriBasiliskWyvernFlight",
+        "AzmeriBasiliskDualProjectile",
+        "AzmeriBasiliskDualProjectile2",
+        "ABTTAzmeriBasaliskShroud",
+        "AzmeriBasiliskComboThrust",
+        "AzmeriBasiliskDecapThrust",
+        "AzmeriBasiliskComboSlam",
+        "AzmeriBasiliskDecapitateRightToLeft",
+        "AzmeriBasiliskDecapitateLeftToRight",
+        "AzmeriBasiliskDualProjectileImpact",
+        "AzmeriBasiliskWyvernGroundCollide",
+        "EmptyActionAttackBasiliskProjectileBarrageAzmeri",
+        "EmptyActionAttackBasiliskProjectileBarrageLargeAzmeri",
+        "EmptyActionAttackBasiliskProjectileLargeAzmeri",
+        "EmptyActionAttackBasiliskWyvernAzmeri",
+        "EmptyActionAttackBasiliskDecapitateAzmeri",
+        "EmptyActionAttackBasiliskSpinAttackAzmeri",
+        "AzmeriBasiliskShoulderMortar",
+        "AzmeriBasiliskShoulderMortar2",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/AnimatedSwordHigh_"] = {
+    name = "Perfect Dancing Sword",
+    life = 1.5,
+    fireResist = 0,
+    coldResist = 0,
+    lightningResist = 0,
+    chaosResist = 0,
+    damage = 2.25,
+    damageSpread = 0,
+    attackTime = 1.5,
+    attackRange = 6,
+    accuracy = 1,
+    skillList = {
+        "MeleeAtAnimationSpeed",
+        "AzmeriSawbladeAnimatedWeaponCyclone",
+        "AzmeriDoubleSlashAnimatedWeapon",
+        "AzmeriSwordStormCascade",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/FlaskloverHigh"] = {
+    name = "Perfect Druidic Alchemist",
+    life = 1.75,
+    energyShield = 2,
+    fireResist = 0,
+    coldResist = 0,
+    lightningResist = 0,
+    chaosResist = 75,
+    damage = 1.25,
+    damageSpread = 0.2,
+    attackTime = 1.5,
+    attackRange = 10,
+    accuracy = 1,
+    skillList = {
+        "MeleeAtAnimationSpeed",
+        "MPSAncestralDruidFlask",
+        "GSAncestralDruidFlaskExplode",
+        "GSAncestralDruidTotemChannelHeal",
+        "EASAncestralHealTotem",
+        "EASAncestralHealAlly",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/TankyZombieHigh"] = {
+    name = "Perfect Meatsack",
+    life = 8,
+    fireResist = 0,
+    coldResist = 40,
+    lightningResist = 0,
+    chaosResist = 0,
+    damage = 1.65,
+    damageSpread = 0.2,
+    attackTime = 1.5,
+    attackRange = 11,
+    accuracy = 1,
+    skillList = {
+        "MeleeAtAnimationSpeed",
+        "AzmeriZombieCausticGroundWhenHit",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/BarrageDemonHigh_"] = {
+    name = "Perfect Needle Horror",
+    life = 3.75,
+    fireResist = 0,
+    coldResist = 52,
+    lightningResist = 52,
+    chaosResist = 0,
+    damage = 1.8,
+    damageSpread = 0.2,
+    attackTime = 1.65,
+    attackRange = 50,
+    accuracy = 1,
+    weaponType1 = "Bow",
+    skillList = {
+        "AzmeriBarrageDemonRainOfSpines",
+        "AzmeriBarrageDemonSpinestorm",
+        "AzmeriBarrageDemonSpineProjectile",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/Hailrake/HailrakeHigh"] = {
+    name = "Perfect Frozen Cannibal",
+    life = 2,
+    fireResist = 0,
+    coldResist = 75,
+    lightningResist = 0,
+    chaosResist = 0,
+    damage = 1.25,
+    damageSpread = 0,
+    attackTime = 1.5,
+    attackRange = 12,
+    accuracy = 1,
+    weaponType1 = "One Hand Mace",
+    skillList = {
+        "MeleeAtAnimationSpeed",
+        "AzmeriHailrakeGlacialHammer",
+        "AzmeriHailrakeArcticArmour",
+        "AzmeriHailrakeColdResistAura",
+        "AzmeriHailrakeGlacialCascade",
+        "IceCrashAzmeriHailrake",
+        "GSAzmeriHailrakeIceNova",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/Mannequin/MannequinHigh_"] = {
+    name = "Perfect Dark Marionette",
+    life = 2.88,
+    fireResist = 20,
+    coldResist = 20,
+    lightningResist = 20,
+    chaosResist = 0,
+    damage = 1.25,
+    damageSpread = 0.2,
+    attackTime = 1.5,
+    attackRange = 8,
+    accuracy = 1,
+    skillList = {
+        "MeleeAtAnimationSpeed",
+    },
+    modList = {
+    },
+}
