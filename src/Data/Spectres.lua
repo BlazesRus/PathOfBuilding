@@ -3430,3 +3430,170 @@ minions["Metadata/Monsters/LeagueCrucible/Cold/Pyromaniac"] = {
 		-- MonsterNoMapDrops [monster_no_map_drops = 1]
 	},
 }
+
+--(from PoEDB Website)
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/VikingHigh"] = {
+    name = "Perfect Forest Warrior",
+    life = 3.98,
+    fireResist = 20,
+    coldResist = 20,
+    lightningResist = 20,
+    chaosResist = 0,
+    damage = 1.95,
+    damageSpread = 0.2,
+    attackTime = 1.65,
+    attackRange = 8,
+    accuracy = 1,
+    weaponType1 = "Two Hand Axe",
+    skillList = {
+        "MeleeAtAnimationSpeedFire",
+        "AzmeriVikingCyclone",
+        "AzmeriVikingUpheaval",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/VaalOversoulHigh"] = {
+    name = "Perfect Shadow Construct",
+    life = 4.58,
+    fireResist = 20,
+    coldResist = 20,
+    lightningResist = 20,
+    chaosResist = 0,
+    damage = 2.25,
+    damageSpread = 0.2,
+    attackTime = 4.005,
+    attackRange = 7,
+    accuracy = 1,
+    skillList = {
+        "AzmeriOversoulExplosionIgnite",
+        "AzmeriOversoulLaserMaxShock",
+        "AzmeriOversoulSpray",
+        "AzmeriOversoulColdSnapTriggered",
+        "AzmeriOversoulRocks",
+        "AzmeriOversoulRocksTriggered",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/SpiderLeaderHigh_"] = {
+    name = "Perfect Spider Matriarch",
+    life = 1.73,
+    fireResist = 0,
+    coldResist = 0,
+    lightningResist = 0,
+    chaosResist = 75,
+    damage = 1.73,
+    damageSpread = 0.2,
+    attackTime = 0.945,
+    attackRange = 13,
+    accuracy = 1,
+    skillList = {
+        "MeleeAtAnimationSpeed",
+        "MonsterViperStrikeAtAnimationSpeed",
+        "AzmeriSpiderLeaderMortar",
+        "ABTTAzmeriSpiderLeaderAura",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/ShepherdHigh"] = {
+    name = "Perfect Sanguimancer Demon",
+    life = 2.03,
+    energyShield = 1,
+    fireResist = 0,
+    coldResist = 0,
+    lightningResist = 75,
+    chaosResist = 0,
+    damage = 1.5,
+    damageSpread = 0.2,
+    attackTime = 1.5,
+    attackRange = 12,
+    accuracy = 1,
+    weaponType1 = "Unarmed",
+    weaponType2 = "One Hand Mace",
+    skillList = {
+        "MMSAzmeriShepherdTripleMortar",
+        "MMSAzmeriShepherdVomitMortar",
+        "ABTTAzmeriShepherdSpellDamage",
+        "GSAzmeriShepherdBeamNuke",
+        "GTAzmeriShepherdVomit",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/GoddessHigh"] = {
+    name = "Perfect Judgemental Spirit",
+    life = 2.03,
+    energyShield = 1,
+    fireResist = 20,
+    coldResist = 20,
+    lightningResist = 20,
+    chaosResist = 0,
+    damage = 1.5,
+    damageSpread = 0.2,
+    attackTime = 1.5,
+    attackRange = 12,
+    accuracy = 1,
+    skillList = {
+        "AzmeriGoddessDiscipline",
+        "AzmeriGoddessSpiritMortar",
+        "AzmeriGoddessOfferingOfJudgement",
+        "AzmeriGoddessOfferingOfJudgementChaos",
+        "AzmeriGoddessSummonSkeletonGhostflame",
+        "AzmeriGoddessBeam",
+        "ABTTAzmeriGoddessAura",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/RobotArgusHigh__"] = {
+    name = "Perfect Hulking Miscreation",
+    life = 4.58,
+    fireResist = 20,
+    coldResist = 20,
+    lightningResist = 20,
+    chaosResist = 0,
+    damage = 1.5,
+    damageSpread = 0.2,
+    attackTime = 1.785,
+    attackRange = 21,
+    accuracy = 1,
+    skillList = {
+        "AzmeriArgusMeleeAtAnimationSpeed",
+        "SSMAzmeriRobotArgusItsRainingMannequins",
+        "ABTTAzmeriRobotArgusPhysAsExtraLightning",
+        "GAAzmeriRobotArgusSlam",
+        "EGAzmeriRobotArgusActivationWave",
+        "EGAzmeriRobotArgusOverchargeBuff",
+    },
+    modList = {
+    },
+}
+
+minions["Metadata/Monsters/LeagueAzmeri/SpecialCorpses/KudukuHigh"] = {
+    name = "Perfect Spirit of Fortune",
+    life = 4.28,
+    fireResist = 0,
+    coldResist = 52,
+    lightningResist = 52,
+    chaosResist = 0,
+    damage = 1.5,
+    damageSpread = 0,
+    attackTime = 1.5,
+    attackRange = 6,
+    accuracy = 1,
+    skillList = {
+        "AzmeriKudukuSparkExtraProj",
+        "AzmeriKudukuShockNova",
+        "AzmeriKudukuWarp",
+        "AvatarWrath",
+    },
+    modList = {
+    },
+}
